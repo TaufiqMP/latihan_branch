@@ -1,2 +1,3 @@
-#Ini adalah repository untuk membuat branch baru di github
-Github itu asyik lo
+#Ini adalah latihan untuk mengubah repository baru di github
+Belajar github di dicoding
+
