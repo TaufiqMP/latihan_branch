@@ -1,2 +1,1 @@
-# latihan_branch
-disana tempat repository branch lain
+yang bener saja
