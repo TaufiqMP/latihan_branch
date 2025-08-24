@@ -1,2 +1,2 @@
 # latihan_branch
-disini tempat repository branch lain
+disana tempat repository branch lain
