@@ -1,2 +1,2 @@
-# latihan_branch
-disana tempat repository branch lain
+#Ini adalah repository untuk membuat branch baru di github
+Github itu asyik lo
